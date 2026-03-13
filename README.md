@@ -6,4 +6,4 @@
 
 ## Widget Tree
 
-[Widget Tree](assets/Widget_Tree.png)
+<img width="3207" height="1316" alt="image" src="assets/Widget_Tree.png" />
